@@ -32,8 +32,8 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ## 📬 Contact & Connect  
 
 🔗 **LinkedIn:** [Arabjon Nishonov](https://www.linkedin.com/in/arabjon-nishonov-1b6865245/))  
-📢 **YouTube:** [@Arabkhon_NIhsonov](https://www.youtube.com/@Arabkhon_laradev)  
-💬 **Telegram:** [@Arabjonnishonov](https://t.me/Arabkhondev)
+📢 **YouTube:** [@Arabkhon_Nishonov](https://www.youtube.com/@Arabkhonlaradev)  
+💬 **Telegram:** [@Arabjon nishonov](https://t.me/Arabjon_laradev)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ArabkhonDev&show_icons=true&theme=gotham" alt="ArabkhonDev" />
 
