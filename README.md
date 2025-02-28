@@ -36,5 +36,3 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 💬 **Telegram:** [@Arabjon nishonov](https://t.me/Arabjon_laradev)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ArabkhonDev&show_icons=true&theme=gotham" alt="ArabkhonDev" />
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ArabkhonDev&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="ArabkhonDev" /></a> </p>
