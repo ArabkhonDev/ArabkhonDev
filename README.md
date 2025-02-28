@@ -1,8 +1,3 @@
-## Hi there 👋
-
-
-**ArabkhonDev/ArabkhonDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">PHP Laravel Developer</h1>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
