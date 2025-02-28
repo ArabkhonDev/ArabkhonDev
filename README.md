@@ -29,6 +29,12 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 ![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+## 📬 Contact & Connect  
+
+🔗 **LinkedIn:** [Arabjon Nishonov](https://www.linkedin.com/in/sukhrob-nurali/)  
+📢 **YouTube:** [@Arabkhon_NIhsonov](https://www.youtube.com/@Arabkhon_laradev)  
+💬 **Telegram:** [@arabjonnishonov](https://t.me/Arabkhondev)
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ArabkhonDev&show_icons=true&theme=gotham" alt="ArabkhonDev" />
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ArabkhonDev&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="ArabkhonDev" /></a> </p>
