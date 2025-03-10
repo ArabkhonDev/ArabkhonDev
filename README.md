@@ -11,9 +11,8 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on Laravel 12
-- :hourglass_flowing_sand:  Exploring Microservices
-- :rocket: Always ready to collaborate for Dev Experiments
+- :computer: I'm currently working on Laravel 12 and PHP 8.2
+- :computer: I'm currently working database on MySQL 10 and PostgresSQL 17
 
 ## ⚡ Technologies
 
